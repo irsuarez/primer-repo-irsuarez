@@ -9,3 +9,16 @@ Pitagoras
 Stephen Hawking
 Leonardo Da Vinci
 Nikola Tesla
+
+Los 10 lenguajes de programacion mas importantes
+
+C
+C++
+java
+Python
+Javascript
+PHP
+HTML5
+swift
+C#
+R
